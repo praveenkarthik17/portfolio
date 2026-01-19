@@ -217,21 +217,16 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2020, text: "Started my journey in Computer Science and Data Analysis" },
-  { year: 2021, text: "Deep dived into Python, Machine Learning, and Cloud Computing" },
-  { year: 2022, text: "Worked on various Data Science projects and obtained AWS certifications" },
-  { year: 2023, text: "Completed Bachelor's degree and deployed first cloud-native applications" },
-  { year: 2024, text: "Specializing as an AWS Engineer and Data Scientist, building scalable solutions" },
+  { year: 2020, text: "Started BCA in Computer Programming at CMR University, diving into programming fundamentals" },
+  { year: 2021, text: "Expanded skills in web development, databases, and software engineering principles" },
+  { year: 2022, text: "Built full-stack projects and gained expertise in modern web technologies" },
+  { year: 2023, text: "Completed BCA degree from CMR University with focus on Computer Programming and Specific Applications" },
+  { year: 2024, text: "Pursuing MCA in Computer Science at Kristu Jayanti University, specializing in advanced computing and development" },
 ];
 
-export const FiverUrl = "https://www.fiverr.com/tanv33r_khan";
-export const UpworkUrl =
-  "https://www.upwork.com/freelancers/~0128ca58b87e6d95b6";
 export const ResumeUrl = "https://www.cakeresume.com/tanveer-khan-21f68d";
 export const GithubUrl = "https://github.com/praveenkarthik17";
 export const LinkedInUrl =
   "https://www.linkedin.com/in/praveen-k-70419124a/";
-export const FacebookUrl =
-  "https://www.facebook.com/profile.php?id=100007686159316";
 export const MobileNumber = "9611228600";
 export const PersonalEmail = "praveenkarthik17@gmail.com";

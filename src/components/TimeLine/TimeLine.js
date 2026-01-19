@@ -46,7 +46,7 @@ const Timeline = () => {
       const index = Math.round(
         (carouselRef.current.scrollLeft /
           (carouselRef.current.scrollWidth * 0.7)) *
-          TimeLineData.length
+        TimeLineData.length
       );
 
       setActiveItem(index);
@@ -67,11 +67,11 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Experienced Full Stack Backend & Rust Solana Developer with over 2 years of
-        experience. Passionate about delivering high-quality web solutions with
-        a strong foundation in Node.js & Rust. Committed to writing clean code,
-        providing exceptional user experiences, and staying updated with
-        industry trends for innovative solutions.
+        Currently pursuing Master of Computer Applications (MCA) in Computer Science
+        at Kristu Jayanti University. Passionate about AWS Cloud Computing and Data Analytics,
+        with a strong foundation in web development. Dedicated to building scalable cloud
+        solutions, analyzing data for insights, and creating innovative applications that
+        solve real-world problems.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

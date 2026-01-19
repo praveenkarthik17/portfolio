@@ -18,10 +18,10 @@ const Hero = (props) => (
           I'm Praveen Karthik
         </SectionTitle>
         <SectionText>
-          An aspiring AWS Engineer and Data Scientist passionate about cloud
-          computing and machine learning. Dedicated to building scalable
-          infrastructure and deriving insights from data to drive business
-          growth.
+          Currently pursuing MCA in Computer Science at Kristu Jayanti University.
+          Passionate about AWS Cloud Computing and Data Analytics. Building expertise
+          in cloud infrastructure, data-driven solutions, and modern web development
+          to create impactful applications.
         </SectionText>
         <div
           style={{
