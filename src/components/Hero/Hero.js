@@ -18,9 +18,10 @@ const Hero = (props) => (
           I'm Praveen Karthik
         </SectionTitle>
         <SectionText>
-          A Full Stack Backend & Solana Blockchain Developer specializing in
-          scalable server-side applications with Node.js & Rust. Proficient in
-          Next.js and React.js for seamless web development.
+          An aspiring AWS Engineer and Data Scientist passionate about cloud
+          computing and machine learning. Dedicated to building scalable
+          infrastructure and deriving insights from data to drive business
+          growth.
         </SectionText>
         <div
           style={{

@@ -217,28 +217,11 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  // { year: 2017, text: "Passed my Matriculation in Computer Science" },
-  // { year: 2019, text: "Passed my Intermediate in Pre-Engineering" },
-  {
-    year: 2020,
-    text: "Enrolled in university for a Bachelor's in Computer Science",
-  },
-  {
-    year: 2021,
-    text: "Started as a freelance and onsite developer, embarking on my industry journey",
-  },
-  {
-    year: 2022,
-    text: "I have learned and struggled a lot. Difficult times make a person stronger",
-  },
-  {
-    year: 2023,
-    text: "Completed my bachelors degree",
-  },
-  {
-    year: 2024,
-    text: "Focusing on backend development using Node.js and Solana blockchain.",
-  },
+  { year: 2020, text: "Started my journey in Computer Science and Data Analysis" },
+  { year: 2021, text: "Deep dived into Python, Machine Learning, and Cloud Computing" },
+  { year: 2022, text: "Worked on various Data Science projects and obtained AWS certifications" },
+  { year: 2023, text: "Completed Bachelor's degree and deployed first cloud-native applications" },
+  { year: 2024, text: "Specializing as an AWS Engineer and Data Scientist, building scalable solutions" },
 ];
 
 export const FiverUrl = "https://www.fiverr.com/tanv33r_khan";
@@ -250,5 +233,5 @@ export const LinkedInUrl =
   "https://www.linkedin.com/in/praveen-k-70419124a/";
 export const FacebookUrl =
   "https://www.facebook.com/profile.php?id=100007686159316";
-export const MobileNumber = "0334-2177092";
-export const PersonalEmail = "tanveer.khan2692000@gmail.com";
+export const MobileNumber = "9611228600";
+export const PersonalEmail = "praveenkarthik17@gmail.com";
