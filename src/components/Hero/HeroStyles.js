@@ -3,10 +3,10 @@ import styled from 'styled-components';
 export const LeftSection = styled.div`
   width: 100%;
   @media ${(props) => props.theme.breakpoints.sm} {
-    width: 80%;
+    width: 100%;
     display: flex;
     flex-direction: column;
-
+    padding: 0 8px;
     margin: 0 auto;
   }
   @media ${(props) => props.theme.breakpoints.md} {

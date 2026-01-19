@@ -57,7 +57,9 @@ export const NavLink = styled.a`
     cursor: pointer;
   }
   @media ${(props) => props.theme.breakpoints.sm} {
-    padding: 0.5rem;
+    font-size: 1.2rem;
+    line-height: 20px;
+    padding: 0.2rem;
   }
 `;
 
@@ -120,5 +122,14 @@ border-radius: 50px;
     transform: scale(1.2);
     cursor: pointer;
     
+  }
+  
+  @media ${(props) => props.theme.breakpoints.sm} {
+    padding: 4px;
+    
+    svg {
+      width: 2rem;
+      height: 2rem;
+    }
   }
 `

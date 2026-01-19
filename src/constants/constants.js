@@ -228,5 +228,5 @@ export const ResumeUrl = "https://www.cakeresume.com/tanveer-khan-21f68d";
 export const GithubUrl = "https://github.com/praveenkarthik17";
 export const LinkedInUrl =
   "https://www.linkedin.com/in/praveen-k-70419124a/";
-export const MobileNumber = "9611228600";
+export const MobileNumber = "+91 9611228600";
 export const PersonalEmail = "praveenkarthik17@gmail.com";
